@@ -1,0 +1,74 @@
+
+    body{
+    background: black;
+    color:white;
+    font-family: sans-serif;
+    margin-right: 4.8%;
+    
+
+}
+.menu{
+
+    width: 20%;
+    margin-top: 0%;
+    margin-left: 2%;
+}
+
+.colores{
+    margin-left: 5%;
+    margin-right: -5%;
+    
+}
+
+.lightblue{
+    margin: auto;
+    width: 80%;
+    border: 25% solid aqua;            
+    background: aqua;
+    margin-top: -8.5%;
+
+}
+
+.yellow{
+    margin: auto;
+    width: 80%;
+    border: 25% solid yellow;           
+    background: yellow;
+    margin-top: -3%;
+
+}
+
+.orange{
+    margin: auto;
+    width: 80%;
+    border: 25% solid orange;           
+    background: orange;
+    margin-top: -3%;
+    height: 25;
+
+}
+
+.red{
+    margin: auto;
+    width: 80%;
+    border: 25% solid red;
+    background: red;
+    margin-top: -3%;
+    height: 25%;
+    margin-block-end: -4%;
+
+}
+
+.texto{
+    
+    margin-left: 200px ;
+    margin-right: 200px;
+} 
+.link{
+    color: white;
+    text-decoration: none;
+    
+}
+.link:hover{
+    color: gray;
+}
